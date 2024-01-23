@@ -20,7 +20,7 @@ This Flutter News App is a project developed by Fariz that leverages the NewsAPI
 ## Getting Started
 To get started with the Flutter News App, follow these steps:
 
-1. Clone the repository: git clone https://github.com/farizfarooqui/Flutter-Personal-Projects/tree/main/news_app
+1. Clone the repository: gh repo clone farizfarooqui/Flutter-News-App
 2. Open the project in your preferred Flutter development environment.
 3. Run the app on an emulator or a physical device.
 
