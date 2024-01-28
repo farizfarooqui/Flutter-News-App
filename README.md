@@ -8,7 +8,7 @@ REST Api for News is used in this project.
 https://github.com/farizfarooqui/Flutter-Personal-Projects/assets/135133746/d6abd4fb-2ec8-4b02-b8a6-0bcfae349b8e
 
 ## Overview
-This Flutter News App is a project developed by Fariz that leverages the NewsAPI to provide users with news from diverse channels such as BBC News, CNN, ARY, and more. The app comes with a user-friendly interface and allows users to explore news from different categories, including general, health, sports, and business.
+This Flutter News App is a project that leverages the NewsAPI to provide users with news from diverse channels such as BBC News, CNN, ARY, and more. The app comes with a user-friendly interface and allows users to explore news from different categories, including general, health, sports, and business.
 
 ## Features
 
