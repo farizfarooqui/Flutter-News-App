@@ -3,9 +3,8 @@ Welcome to the Flutter News App, your go-to source for news from various channel
 Flutter MVVM project for News Headlines. 
 REST Api for News is used in this project.
 
-
 ## Demo
-https://github.com/farizfarooqui/Flutter-Personal-Projects/assets/135133746/d6abd4fb-2ec8-4b02-b8a6-0bcfae349b8e
+https://github.com/farizfarooqui/Flutter-News-App/assets/135133746/6d8ebdff-2339-435e-9845-ce7e1ecc2c10
 
 ## Overview
 This Flutter News App is a project that leverages the NewsAPI to provide users with news from diverse channels such as BBC News, CNN, ARY, and more. The app comes with a user-friendly interface and allows users to explore news from different categories, including general, health, sports, and business.
